@@ -26,6 +26,7 @@ Cycle Detection
 7. Shortest Cycle in an undirected Graph
 8. Detecting odd len cycle (Bipartite)
 9. https://leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting/
+    Great question it is solved by checking if in a component there is a cyclic dependency or interdependency. if cycle is there then length of cycle is max and if interdependency then a+b+2 where a is max length of branch from node1 and b is max length of branch from node2
 
 
 DAG or Topological Sort
