@@ -34,8 +34,8 @@ DAG or Topological Sort
 2. https://leetcode.com/problems/largest-color-value-in-a-directed-graph/
 
 
-MST
-1. https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/
+MST - Prim's Algo & Krusals Algo. I prefer Prim's
+1. https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/ Based on MST so critical edge are those whose removal from tree changes the mst value and psudo are those whose present or absence does not matter mst remains same.
 2. https://leetcode.com/problems/min-cost-to-connect-all-points/
 3. https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/
 
