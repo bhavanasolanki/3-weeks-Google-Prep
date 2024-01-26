@@ -37,7 +37,7 @@ DAG or Topological Sort
 MST - Prim's Algo & Krusals Algo. I prefer Prim's
 1. https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/ Based on MST so critical edge are those whose removal from tree changes the mst value and psudo are those whose present or absence does not matter mst remains same.
 2. https://leetcode.com/problems/min-cost-to-connect-all-points/
-3. https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/
+3. https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/ Based on edge weight less for type 3 as its on priority so type 3 weight is 1 then different higher weights for type 1 & 2. we maintain a map which stores unique has of wt,u,v. answer is (total no of edges-size of map)
 
 
 DSU
